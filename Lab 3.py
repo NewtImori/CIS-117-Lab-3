@@ -7,7 +7,7 @@ import csv
 # Input CSV file name
 input_csv = 'country_full.csv'
 # Set a specific file path to save files
-file_path = "C:/college work/CIS 117 Python/Lab 3/CREATED FILES/"
+file_path = "D:/college/CIS 117/Lab 3/Output/"
 # Dictionary to group countries by region
 regions = {}
 
